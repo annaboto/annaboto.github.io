@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Anna Botó's musings on being a woman, an academician, a scientist.
+Anna Botó's musings on being a woman, an academician, a scientist, a person. 
 
