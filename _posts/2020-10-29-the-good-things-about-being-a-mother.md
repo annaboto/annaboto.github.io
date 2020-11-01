@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: motherhood
 ---
 
 I've found that the best thing about being a mother is the fact that you get more than one life to live. You live a new childhood and a new teenagehood through your kids. I assume you also live a new youth and a new adulthood, but I still haven't tested that. 
