@@ -33,7 +33,7 @@ url: "https://annaboto.github.io/" # the base hostname & protocol for your site,
 collections:
   posts:
     output: true
-    permalink: none 
+    permalink: permalink: /:categories/:title
 
 # Build settings
 theme: minima
